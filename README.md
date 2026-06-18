@@ -1,0 +1,1 @@
+# shurimote-releases
